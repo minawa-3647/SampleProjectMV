@@ -1,0 +1,12 @@
+{
+    "name": "FAR_WebGame01",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 816,
+        "height": 459,
+        "icon": "icon/icon.png"
+    }
+}
